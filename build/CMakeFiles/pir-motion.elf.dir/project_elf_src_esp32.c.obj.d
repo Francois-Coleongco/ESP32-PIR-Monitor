@@ -1,0 +1,2 @@
+CMakeFiles/pir-motion.elf.dir/project_elf_src_esp32.c.obj: \
+ /home/sleepy/esp-idf/projects/pir-motion/build/project_elf_src_esp32.c

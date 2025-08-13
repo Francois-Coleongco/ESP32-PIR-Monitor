@@ -1,0 +1,12 @@
+Command: make -j 22 all
+info: Default value for ESP_PERIPH_CTRL_FUNC_IN_IRAM in sdkconfig is y but it is n according to Kconfig.
+Using default value from sdkconfig (y).
+info: Default value for LIBC_STDOUT_LINE_ENDING_CRLF in sdkconfig is y but it is n according to Kconfig.
+info: Default value for LIBC_STDIN_LINE_ENDING_CR in sdkconfig is y but it is n according to Kconfig.
+Configuration Report                     
+ ─────────────────────────────────────── 
+   Parser Version: 1                     
+   Verbosity: default                    
+   Status: Finished with notifications   
+                                         
+ ─────────────────────────────────────── 

@@ -1,0 +1,2 @@
+source /home/sleepy/esp-idf/projects/pir-motion/build/gdbinit/symbols
+source /home/sleepy/esp-idf/projects/pir-motion/build/gdbinit/connect
